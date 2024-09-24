@@ -1,0 +1,15 @@
+Tools/*
+Extern/*
+*/.vs/*
+*/.idea/*
+
+*.dll
+*.sln
+*.vcxproj*
+*.lib
+*.log
+*.bsc
+*.obj
+*.sbr
+*.txt
+*.tlog
